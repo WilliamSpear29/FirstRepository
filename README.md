@@ -1,3 +1,3 @@
 # FirstRepository
-This is just a test
+This is just a test\n
 This is the Master File
